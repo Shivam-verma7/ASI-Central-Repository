@@ -1,0 +1,567 @@
+Name,Form
+Above Ground Level,AGL
+Actual Time Of Arrival/Air Traffic Area,ATA
+Actual Time Of Departure,ATD
+Aeronautical,AERO
+Aeronautical Information Manual,AIM
+Air Carrier,ACR
+Air Data Computer,ADC
+Air Defense Identification Zone,ADIZ
+Air Driven Generator,ADG
+Air Force Base,AFB
+Air National Guard,ANG
+Air Route Surveillance Radar,ARSR
+Air Route Traffic Control Center,ARTCC
+Air Traffic Control,ATC
+Aircraft,ACFT
+Airline Transport Pilot Certificate,ATP
+Airline Transport Rating,ATR
+Airport,ARPT
+Airport Facility Directory,AFD
+Airport Surveillance Radar,ASR
+Airport Traffic Control Tower,ATCT
+Allowable Takeoff Gross Weight,ATOG
+Alternating Current,AC
+Altitude,ALT
+Altitude Deviation,ALTDEV
+Ambiguity,AMB
+Ante Meridiem,AM
+Approach,APCH
+Approach Control,APCH CTL
+Approximately,APPROX
+Area Navigation,RNAV
+Arrival,ARR
+As Soon As Possible,ASAP
+Attention,ATTN
+Attitude Direction Indicator,ADI
+Authority,AUTH
+Automated Flight Service Station,AFSS
+Automated Radar Terminal Systems,ARTS
+Automated Surface Observation Sys (Or Weather Observation Sys),ASOS
+Automatic Weather Observing System,AWOS
+Automatic,AUTO
+Automatic Communications Addressing & Reporting System,ACARS
+Automatic Direction Finder,ADF
+Automatic Landing System,ALS
+Automatic Terminal Information Service,ATIS
+Autopilot and Flight Director System,AFDS
+Auxiliary,AUX
+Auxiliary Power Unit,APU
+Average,AVG
+Aviation Gasoline,AVGAS
+Aviation Medical Examiner,AME
+Aviation Safety Reporting System,ASRS
+Back Course,BC
+Balance,BAL
+Base Operations Office,BASE OPS
+Between,BTWN
+Biennial Flight Review,BFR
+Bright Radar Indicator Tower Equipment,BRITE
+Broadcast Station,BCSTN
+Broken,BKN
+Cabin Attendant,CAB
+Captain,CAPT
+Carburetor,CARB
+Category/Clear Air Turbulence,CAT
+Cathode Ray Tube,CRT
+Celsius,C
+Center,CTR
+Central Air Data Computer,CADC
+Central Aural Warning System,CAWS
+Central Daylight Time,CDT
+Central Processing Unit,CPU
+Central Standard Time,CST
+Certified Flight Instructor,CFI
+Check,CHK
+Circuit Breaker,CB
+Civil Air Patrol,CAP
+Clear,CLR
+Clearance,CLRNC
+Clearance Delivery,CD
+Climb,CLB
+Cockpit Resource Management,CRM
+Common Traffic Advisory Frequency,CTAF
+Communication,COM
+Company Ground Personnel,CGP
+Compass Locator At Ils Middle Marker,LMM
+Compass Locator At Ils Outer Marker,LOM
+Configuration,CONFIG
+Constant Speed Drive,CSD
+Control,CTL
+Control Display Unit,CDU
+Controlled Flight Into Terrain,CFIT
+Controlled Flight Toward Terrain,CFTT
+Controller,CTLR
+Controller In Charge,CIC
+Coordinated Universal Time,Z
+Coordination,COORD
+Course Deviation Indicator,CDI
+Crash Fire Rescue Equipment,CFR
+Cross Country,XCOUNTRY
+Crossing,XING
+Crosswind,XWIND
+Data Control Unit,DCU
+Decibel,DB
+Decision Height,DH
+Defense Visual Flight Rules,DVFR
+Degree,DEG
+Demonstration,DEMO
+Department,DEPT
+Department Of Defense,DOD
+Department Of Energy,DOE
+Department Of Transportation,DOT
+Departure,DEP
+Descend,DSND
+Descent,DSCNT
+Destination,DEST
+Deviation,DEV
+Differential Global Positioning System,DGPS
+Digital Flight Data Recorder,DFDR
+Digital Flight Guidance System,DFGS
+Direction Finder,DF
+Distance Measuring Equipment,DME
+Distraction,DISTR
+Eastbound,EBND
+Eastern Daylight Time,EDT
+Eastern Standard Time/Estimate,EST
+Electromagnetic Interference,EMI
+Electronic Centralized Aircraft Monitoring,ECAM
+Electronic Flight Instrument System,EFIS
+Emergency,EMER
+Emergency Locator Transmitter,ELT
+Emergency Medical Service,EMS
+En Route,ENRTE
+Engine,ENG
+Engine Indicating and Crew Alerting System,EICAS
+Engineer,ENGR
+Equipment,EQUIP
+Estimated Time Of Arrival,ETA
+Estimated Time Of Departure,ETD
+Evacuate,EVAC
+Evaluation,EVAL
+Examination,EXAM
+Expected Approach Clearance,EAC
+Expected Approach Time,EAT
+Extended Range Operations,EROPS
+Extended Range Twin Operations,ETOPS
+Facility,FAC
+Facsimile,FAX
+Fahrenheit,F
+Federal Air Marshal,FAM
+Federal Aviation Administration,FAA
+Federal Aviation Regulation,FAR
+Federal Communications Commission,FCC
+Feet,FT
+Feet Per Minute,FPM
+Final Approach Fix,FAF
+First Officer,FO
+Fixed-Base Operator,FBO
+Flight,FLT
+Flight Attendant,FA
+Flight Control Data Concentrator,FCDU
+Flight Control Unit,FCU
+Flight Crew,FLC
+Flight Director,FD
+Flight Engineer,FE
+Flight Guidance Computer,FGC
+Flight Guidance Unit,FGS
+Flight Information Publication,FLIP
+Flight Inspection District Office,FIDO
+Flight Level,FL
+Flight Management Computer,FMC
+Flight Management Guidance Computer,FMGC
+Flight Management Guidance System,FMGS
+Flight Management System,FMS
+Flight Mode Annunciator,FMA
+Flight Service Station,FSS
+Flight Standards District Office,FSDO
+For Your Information,FYI
+Foreign Object Damage,FOD
+Frequency,FREQ
+Frequency Modulation,FM
+General Aviation,GA
+General Aviation District Office,GADO
+Gigahertz,GHZ
+Glideslope (One Word),GS
+Global Navigation System,GNS
+Global Positioning System,GPS
+Go Around,GAR
+Government,GOV
+Greenwich Mean Time,GMT
+Ground,GND
+Ground Control,GC
+Ground Proximity Warning System,GPWS
+Ground Speed,GND SPD
+Handoff,HDOF
+Head Up Display,HUD
+Heading,HDG
+Headquarters,HQ
+Heavy,HVY
+Height,HGT
+Height Above Airport Elevation,QFE
+Helicopter,HELI
+Hertz,HZ
+High Frequency,HF
+High Intensity Approach Light System,HIALS
+High Intensity Runway Lights,HIRL
+Highway,HWY
+Horizontal,HORIZ
+Horizontal Situation Indicator,HSI
+Hour,HR
+Hydraulic,HYD
+Identification,ID
+Identification Friend Or Foe,IFF
+Identify,IDENT
+In Accordance With,IAW
+Inbound,INBND
+Incorporated,INC
+Indicated Air Speed,IAS
+Inertial Navigation Display Unit,ISDU
+Inertial Navigation System,INS
+Inertial Reference Unit,IRU
+Inertial Reference System,IRS
+Information,INFO
+Initial Approach Fix,IAF
+Initial Operating Experience,IOE
+Inoperative,INOP
+Instruct,ISTR
+Instrument,INST
+Instrument Approach Procedure,IAP
+Instrument Flight Rules,IFR
+Instrument Landing System,ILS
+Instrument Meteorological Conditions,IMC
+Interfacility,INTERFAC
+Intermediate Fix,IF
+International,INTL
+International Air Transport Association,IATA
+International Civil Aviation Organization,ICAO
+International Flight Service Station,IFSS
+International Relief Officer,IRO
+Interpretation,INTERP
+Intersection,INTXN
+Kilogram,KG
+Kilohertz,KHZ
+Kilometers,KM
+Kilowatt,KW
+Knots,KT
+Knots Indicated Airspeed,KIAS
+Landing,LNDG
+Landing Without Clrnc,LWOC
+Lateral Navigation,LNAV
+Latitude,LAT
+Left/Right,L/R
+Less Than Standard Separation,LTSS
+Letter,LTR
+Letter Of Agreement,LOA
+Light Emitting Diode,LED
+Liquid Crystal Display,LCD
+Local,LCL
+Local Control,LC
+Localizer,LOC
+Long Range Navigation,LORAN
+Longitude,LONG
+Low Frequency,LF
+Low Intensity Runway Edge Lights,LIRL
+Low Level Wind Shear,LLWS
+Low Level Wind Shear Alert System,LLWAS
+Mach Number,M
+Magnetic,MAG
+Maintenance,MAINT
+Management,MGMNT
+Manager,MGR
+Marginal Visual Flight Rules,MVFR
+Marine Corps Air Station,MCAS
+Maximum,MAX
+Mean Sea Level,MSL
+Mechanic,MECH
+Medium Frequency,MF
+Medium Intensity Approach Lighting System,MALS
+Medium Intensity Approach Lighting System With Runway Alignment Indicator Lights,MALSR
+Medium Intensity Approach Lighting System With Sequenced,MALSF
+Medium Intensity Runway Edge Lights,MIRL
+Megahertz,MHZ
+Message,MSG
+Metropolitan,METRO
+Microphone,MIKE
+Microwave Landing System,MLS
+Middle Marker,MM
+Mile,MI
+Military,MIL
+Military Operating Area,MOA
+Military Training Route,MTR
+Millibars,MB
+Minimum Crossing Altitude,MCA
+Minimum Descent Altitude,MDA
+Minimum Enroute Altitude,MEA
+Minimum Equipment List,MEL
+Minimum Obstruction Clearance Altitude,MOCA
+Minimum Safe Altitude,MSA
+Minimum Safe Altitude Warning,MSAW
+Minimum Vector Altitude,MVA
+Minutes,MIN
+Miscellaneous,MISC
+Missed Approach Point,MAP
+Mode Control Panel,MCP
+Mountain Daylight Time,MDT
+Mountain Standard Time,MST
+Multi Functional Display Unit,MFDU
+Municipal,MUNI
+National,NATL
+National Aeronautics and Space Administration,NASA
+National Oceanic and Atmospheric Administration,NOAA
+National Transportation Safety Board,NTSB
+National Weather Service,NWS
+Nautical Mile,NM
+Naval Air Station,NAS
+Navigation,NAV
+Navigational Aid,NAVAID
+NDB and DME (Co-located),NDB/DME
+Near Midair Collision,NMAC
+No Radio,NORDO
+No Radio Contact,NORAC
+Non Federal Control Tower,NFCT
+Nondirectional Radio Beacon,NDB
+North,N
+South,S
+West,W
+East,E
+Northbound,NBND
+Notice To Airmen,NOTAM
+Omega Navigation System,ONS
+On-The-Job Training,OJT
+Operations,OP
+Operational Deviation,OPDEV
+Operational Error,OPERROR
+Out Of Service,OTS
+Outer Marker,OM
+Outside Air Temperature,OAT
+Overcast,OVCST
+Pacific Daylight Time,PDT
+Pacific Standard Time,PST
+Passenger,PAX
+Pilot,PLT
+Pilot Controlled Lighting,PCL
+Pilot Deviation,PLTDEV
+Pilot Flying,PF
+Pilot In Command,PIC
+Pilot Not Flying,PNF
+Pilot Report,PIREP
+Position,POS
+Positive Control Area,PCA
+Post Meridiem,PM
+Pound,LB
+Power,PWR
+Power Control Unit,PCU
+Pre Departure Clearance,PDC
+Precipitation,PRECIP
+Precision Approach Path Indicator,PAPI
+Precision Approach Radar,PAR
+Private,PVT
+Problem,PROB
+Procedure,PROC
+Propeller,PROP
+Proximity,PROX
+Public Address,PA
+Publication,PUB
+Quick Reference Handbook,QRH
+Radar Approach Control,RAPCON
+Radio Direction Magnetic Indicator,RDMI
+Radio Frequency,RF
+Radio Frequency Interference,RFI
+Radio Magnetic Indicator,RMI
+Ram Air Turbine / Ram Air Temperature,RAT
+Reference,REF
+Regulation,REG
+Rejected Takeoff,RTO
+Resolution Advisory,RA
+Restrict,RESTR
+Revolutions Per Minute,RPM
+Route,RTE
+Runway Alignment Indicator Lights,RAIL
+Runway End Identifier Lights,REIL
+Runway Visibility Value,RVV
+Runway Visual Range,RVR
+Runways,RWY
+Sea Level,SL
+Second Officer,SO
+Selective Calling,SELCAL
+Sequence Flashing Lights,SFL
+Service,SVC
+Short Takeoff and Landing,STOL
+Significant Meteorological Information,SIGMET
+Situation,SIT
+Southbound,SBND
+Special Visual Flight Rules,SVFR
+Specification,SPEC
+Speed,SPD
+Stabilizer,STAB
+Standard,STD
+Standard Instrument Departure,SID
+Standard Operating Procedure,SOP
+Standard Terminal Arrival Route,STAR
+Statute Mile,SM
+Supervisor,SUPVR
+System,SYS
+Tactical Air Navigation Aid,TACAN
+Takeoff,TKOF
+Takeoff Gross Weight,TOGW
+Taxiway,TXWY
+Telephone Company,TELCO
+Temperature,TEMP
+Terminal Control Area,TCA
+Terminal Radar Approach Control Facility,TRACON
+Terminal Radar Service Area,TRSA
+Thunderstorm,TSTM
+Top Of Climb,TOC
+Top Of Descent,TOD
+Touchdown Zone,TDZ
+Tower,TWR
+Traffic,TFC
+Traffic Advisory,TA
+Traffic Alert and Collision Avoidance,TCAS
+Training,TRNG
+Transmission,XMISSION
+Transmit,XMIT
+Transponder,XPONDER
+True Air Speed,TAS
+Turbulence,TURB
+U S Air Force,USAF
+U S Army,USA
+U S Coast Guard,USCG
+U S Marine Corps,USMC
+U S Navy,USN
+Ultra High Frequency,UHF
+Unauthorized,UNAUTH
+Unidentified Flying Object,UFO
+Universal Time Constant,UTC
+Vertical,VERT
+Vertical Navigation,VNAV
+Vertical/Short Takeoff and Landing,VSTOL
+Very High Frequency,VHF
+Very Low Frequency,VLF
+VFR Low Altitude Training Routes,TR
+VFR Military Training Routes,VR
+VFR Omni-Directional Radio Range,VOR
+Visibility,VIS
+Visual Approach Slope Indicator,VASI
+Visual Flight Rules,VFR
+Visual Meteorological Conditions,VMC
+VOR and DME (Co-located),VOR/DME
+VOR and TACAN (Co-Located),VORTAC
+Weather,WX
+Week,WK
+Weight,WT
+Westbound,WBND
+World Aeronautical Chart,WAC
+Automated Surface Observation Sys (Or Weather Observation Sys),ASOS/AWOS
+Inertial Reference System per Unit,IRS/IRU
+cleared,clred
+reporter,rptr
+degrees,degs
+pilots,plts
+reported,rpted
+hour,hr
+knots,kt
+checked,chked
+climbing,clbing
+checklist,chklist
+report,rpt
+process,procs
+controlers,ctlrs
+autopilot,autoplt
+climbed,clbed
+descended,dsnded
+problems,probs
+operations,ops
+descending,dsnding
+runways,rwys
+approaching,apching
+co-pilot,coplt
+airspeed,airspd
+Pre-flight,preflt
+run up,runup
+years,yr
+airports,arpts
+temporary flight restrictions,tfr
+hand off,handoff
+controls,ctls
+approached,apched
+center line,ctrline
+communications,coms
+aircraft classification number,acn
+TCAS II,tcasii
+notice to airmen,notams
+engines,engs
+frequency,freqs
+checking,chking
+landings,lndgs
+South California,socal
+approaches,apchs
+word,word)
+one,(one
+roll-out,rollout
+reporting,rpting
+flights,flts
+clearly,clrly
+situation,situational
+Uncontrolled,unctled
+Instruments,insts
+Authority,authorized
+Identified,idented
+climb out,clbout
+Clearing,clring
+Checklists,chklists
+transmission,xmissions
+Taxiways,txwys
+Checks,chks
+new york,Ten
+miles per hour,mph
+aircrafts,acfts
+pound,lb
+controled,ctled
+non directional,nondirectional
+Minimum IFR Altitude,mia
+departures,deps
+Reports,rpts
+clearence,clrncs
+mechanics,mechs
+towards,twrs
+Van Nuys Airport,vny
+north bound,nbound
+santa monica municipal airport,smo
+Thunderstorms,tstms
+restraints,restrs
+regulations,regs
+west bound,wbound
+equipment,mooney
+touch and go,touchandgo
+autopilot,ap
+Greenwich Mean Time,gmt
+Phoenix Sky Harbor Airport,phx
+Tampa International Airport,tpa
+in flight,inflt
+south bound,sbound
+JOHN WAYNE AIRPORT,sna
+gulf stream,gulfstream
+weeks,wks
+pilot operating handbook,poh
+helicopters,helis
+multi-function display,mfd
+configuration,confign
+General Edward Lawrence Logan International Airport,bos
+controling,ctling
+Automatic Dependent Surveillance-Broadcast,adsb
+arrivals,arrs
+take offs,tkofs
+Boeing King County International Airport,bfi
+Temporary Flight Restrictions,tfrs
+Long Beach Airport,lgb
+captains,capts
+La Guardia Airport,lga
+controllers,controlers
+you,u
+are,r
+teterboro,ten
+Inner marker,im
+straight in approach,straightin
+Pre-flight,preflight
